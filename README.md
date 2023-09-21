@@ -1,6 +1,12 @@
 # ChessAI
  A somewhat Clever Chess AI that utilizes alpha-beta pruning, move order, and more to result in about a 1500 elo playing strength. 
+## A game versus my friend 
+![A gif of a game my engine played versus my friend](https://github.com/ChessAI/MyEngineInAction.gif)
 
+Note that 
+A. My friend is about 1400 elo on Chess.com
+B. It stalemates despite a dominant position
+ 
 ## Technical Specifications
 Written completely in Python, the engine has a completely running Flask app that allows one to play against the engine. There is also the option to include Stockfish, which allows one to see what a more efficient algorithm comes up with. 
 
