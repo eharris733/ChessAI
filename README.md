@@ -1,7 +1,8 @@
 # ChessAI
  A somewhat Clever Chess AI that utilizes alpha-beta pruning, move order, and more to result in about a 1500 elo playing strength. 
 ## A game versus my friend 
-![A gif of a game my engine played versus my friend](https://github.com/eharris733/ChessAI/MyEngineInAction.gif](https://raw.githubusercontent.com/eharris733/ChessAI/main/MyEngineInAction.gif)
+![My Engine In Action](https://github.com/eharris733/ChessAI/raw/9b66656da70f6b0135c164b01ccea0f1e8cd60f6/MyEngineInAction.gif)
+
 
 Note that 
 A. My friend is about 1400 elo on Chess.com
